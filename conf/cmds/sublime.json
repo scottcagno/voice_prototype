@@ -1,0 +1,55 @@
+{
+	"UP"				:	["key", "Up"],
+	"DOWN"				:	["key", "Down"],
+	"LEFT"				:	["key", "Left"],
+	"RIGHT"				:	["key", "Right"],
+
+	"GO-TO-LINE"		:	["key", "ctrl+g"],
+	"GO-TO-FUNC"		:	["key", "ctrl+r"],
+	"JUMP"				:	["key", "ctrl+m"],
+
+	"CUT"				:	["key", "ctrl+x"],
+	"COPY"				:	["key", "ctrl+c"],
+	"PASTE"				:	["key", "ctrl+v"],
+	"UNDO"				:	["key", "ctrl+z"],
+	"REDO"				:	["key", "ctrl+y"],
+
+	"NEW"				:	["key", "ctrl+n"],
+	"OPEN"				:	["key", "ctrl+o"],
+	"SAVE"				:	["key", "ctrl+s"],
+	"CLOSE"				:	["key", "ctrl+w"],
+	"QUIT"				:	["key", "ctrl+q"],
+
+	"MOVE-LINE-UP"		:	["key", "ctrl+shift+Up"],
+	"MOVE-LINE-DOWN"	:	["key", "ctrl+shift+Down"],
+	"DUPLICATE-LINE"	:	["key", "ctrl+shift+d"],
+	"DUPLICATE-LINES"	:	["key", "ctrl+shift+d"],
+	"JOIN-LINES"		:	["key", "ctrl+j"],
+
+	"FIND"				:	["key", "ctrl+f"],
+	"TOOLS"				:	["key", "ctrl+alt+F3"],
+	"MILTI-SELECT"		:	["key", "alt+F3"],
+	"QUICK-FIND"		:	["key", "ctrl+d ctrl+F3"],
+
+	"INDENT"			:	["key", "ctrl+]"],
+	"UN-INDENT"			:	["key", "ctrl+["],
+
+	"SELECT-WORD"		:	["key", "ctrl+d"],
+	"SELECT-LINE"		:	["key", "ctrl+l"],
+	"SELECT-BLOCK"		:	["key", "ctrl+shift+m"],
+	"SELECT-ALL"		:	["key", "ctrl+a"],
+	"SELECT-UP"			:	["key", "shift+Up"],
+	"SELECT-DOWN"		:	["key", "shift+Down"],
+	"SELECT-MILTI"		:	["key", "alt+F3"],
+
+	"DELETE-WORD"		:	["key", "ctrl+d Delete"],
+	"DELETE-LINE"		:	["key", "ctrl+shift+k"],
+	"DELETE-BLOCK"		:	["key", "ctrl+shift+m Delete"],
+	"DELETE-TO-END"		:	["key", "ctrl+k ctrl+k"],
+	"DELETE-TO-START"	:	["key", "ctrl+k ctrl+Delete"],
+
+	"UPPERCASE"			:	["key", "ctrl+k+u"],
+	"LOWERCASE"			:	["key", "ctrl+k+l"],
+
+	"COMPLETE"			:	["key", "ctrl+space"]
+}

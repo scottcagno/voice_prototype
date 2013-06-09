@@ -1,0 +1,12 @@
+{
+	"ZERO"	:	["type", "0"],
+	"ONE"	:	["type", "1"],
+	"TWO"	:	["type", "2"],
+	"THREE"	:	["type", "3"],
+	"FOUR"	:	["type", "4"],
+	"FIVE"	:	["type", "5"],
+	"SIX"	:	["type", "6"],
+	"SEVEN"	:	["type", "7"],
+	"EIGHT"	:	["type", "8"],
+	"NINE"	:	["type", "9"]
+}
