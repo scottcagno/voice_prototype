@@ -1,0 +1,6 @@
+{
+	"DOT-COM" 	:	["type", ".com"],
+	"DOT-ORG" 	:	["type", ".org"],
+	"DOT-NET" 	:	["type", ".net"],
+	"DOT-BIZ" 	:	["type", ".biz"]
+}
